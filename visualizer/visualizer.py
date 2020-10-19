@@ -5,7 +5,7 @@ from detectron2.utils.visualizer import Visualizer as dt_visualizer
 from matplotlib import pyplot as plt
 from matplotlib.patches import Circle, FancyArrow, Polygon, Rectangle
 
-from ..detector.base import ObjectType
+from detector.base import ObjectType
 from .color import ColorManager
 
 

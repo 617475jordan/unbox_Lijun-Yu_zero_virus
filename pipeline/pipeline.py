@@ -1,7 +1,7 @@
 import queue
 from typing import List
 
-from ..utils import progressbar
+from utils import progressbar
 from .easy_pipeline import SimplePipeline
 from .stage import Stage
 from .task import LoggedTask

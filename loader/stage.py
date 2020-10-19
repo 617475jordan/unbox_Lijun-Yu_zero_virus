@@ -2,10 +2,10 @@ import time
 import os.path as osp
 from collections import namedtuple
 
-from ..pipeline import LoggedTask, Stage
+from pipeline import LoggedTask, Stage
 
 LoaderTask = namedtuple('LoaderTask', [
-    'video_name', 'video_dir', 'video_id', 'camera_id', 'batch_size', 'limit', 'stride', 'start_id', 'kwargs'], defaults=[1, None, 1, 0, {}])
+    'video_name', 'video_dir', 'video_id', 'camera_id', 'batch_size', 'limit', 'stride', 'start_id', 'kwargs'])
 
 
 class LoaderStage(Stage):

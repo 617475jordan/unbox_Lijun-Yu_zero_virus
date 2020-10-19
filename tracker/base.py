@@ -1,7 +1,7 @@
 from collections import namedtuple
 from functools import partial
 
-from ..detector.base import Frame, ObjectType
+from detector.base import Frame, ObjectType
 
 
 class Tracker(object):

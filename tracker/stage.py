@@ -1,8 +1,8 @@
 from collections import deque
 import time
 
-from ..detector.base import Frame
-from ..pipeline import LoggedTask, Stage
+from detector.base import Frame
+from pipeline import LoggedTask, Stage
 
 
 class TrackerStage(Stage):

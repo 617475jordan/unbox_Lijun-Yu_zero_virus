@@ -1,4 +1,4 @@
-from ..utils import get_logger
+from utils import get_logger
 from .easy_pipeline import PipelineItem
 from .task import LoggedTask
 

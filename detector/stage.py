@@ -2,7 +2,7 @@ import time
 import torch
 from collections import namedtuple
 
-from ..pipeline import Stage, LoggedTask
+from pipeline import Stage, LoggedTask
 
 
 DetectorResource = namedtuple('DetectorResource', ['gpu_id'])

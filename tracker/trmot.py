@@ -3,7 +3,7 @@ from collections import defaultdict
 import numpy as np
 import torch
 
-from ..utils import pack_tensor
+from utils import pack_tensor
 from .base import Frame, ObjectType, Tracker
 from .tr_mot.basetrack import TrackState
 from .tr_mot.multitracker import JDETracker, STrack
