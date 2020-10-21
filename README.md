@@ -1,4 +1,4 @@
-# unbox AI project
+# Unbox AI
 
 
 ### welcome to subscribe my channel
@@ -12,7 +12,8 @@
 
 ## video
 - youtube
-- bilibili
+
+[![3 minutes to experience an AI open source project in NVIDIA 2020 AI CITY CHALLENGE, Zero-VIRUS](https://res.cloudinary.com/marcomontalbano/image/upload/v1603257486/video_to_markdown/images/youtube--Lps2CfKMGX8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Lps2CfKMGX8 "[Unbox AI] Zero-VIRUS")
 
 
 ## system requirements
@@ -76,7 +77,7 @@
 
 ----
 
-# AI项目开箱
+# AI开箱
 
 
 ### 欢迎订阅我的频道
@@ -91,7 +92,8 @@
 
 ## 视频
 - bilibili
-- youtube
+
+[![3分钟体验一个NVIDIA 2020 AI CITY CHALLENGE挑战赛的AI开源项目 Zero-VIRUS](https://res.cloudinary.com/marcomontalbano/image/upload/v1603257486/video_to_markdown/images/youtube--Lps2CfKMGX8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.bilibili.com/video/bv1sp4y1k7nd "[Unbox AI] Zero-VIRUS")
 
 
 ## 系统需求
